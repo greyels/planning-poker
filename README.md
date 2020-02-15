@@ -1,2 +1,2 @@
-# planning_poker
+# planning-poker
 Planning Poker Django Application
